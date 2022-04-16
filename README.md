@@ -1,7 +1,6 @@
 # Maps
 ## About the app :
-### The user can select his current location(Source) and the Destination then the app will Calculate the 
-### Distance between the source and the destination.
+### The user can select his current location(Source) and the Destination then the app will Calculate the Distance between the source and the destination.
 
 ## App Built With :
 ### Flutter
